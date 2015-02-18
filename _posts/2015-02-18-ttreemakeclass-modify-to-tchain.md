@@ -20,8 +20,7 @@ EventTree.h and EventTree.C generated from TTree: EventTree
 a)Modify EventTree.h
 
 Add:
-{% highlight text %}
-#include<iostream>
+{% highlight text %} #include<iostream>
 using namespace std;
 {% endhighlight %}
 
