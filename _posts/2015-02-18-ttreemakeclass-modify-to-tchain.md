@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
+
 
 1. MakeClass of the EventTree:
 in root open a file in Phys14_ggNtuples_DYToEE
