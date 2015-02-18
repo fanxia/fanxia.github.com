@@ -14,6 +14,7 @@ in root open a file in Phys14_ggNtuples_DYToEE
 {% highlight text %} root[2] EventTree->MakeClass()("/eos/....") {% endhighlight %}
 EventTree.h and EventTree.C generated from TTree: EventTree
 
+
 2. Modify the codes, use the TChain to load all the files:
 
 a)Modify EventTree.h
